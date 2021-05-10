@@ -13,15 +13,16 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=ITSMAZGH&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSMAZGH&layout=compact&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITSMAZGH&repo=Backup-Bot&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=ITSMAZGH&row=2&column=3)
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#229](https://github.com/Nino-chan02/SELF-HX/pull/229) in [Nino/Nino-Baileys](https://github.com/Nino-chan02/Nino-Baileys)
-2. ❌ Closed PR [#72](https://github.com/Nino-chan02/SELF-HX/pull/72) in [Nino/SELF-HX](https://github.com/Nino-chan02/SELF-HX)
-3. ❌ Closed PR [#71](https://github.com/Nino-chan02/SELF-HX/pull/71) in [Nino/SELF-HX](https://github.com/Nino-chan02/SELF-HX)
-4. ❗️ Closed issue [#66](https://github.com/Nino-chan02/SELF-HX/issues/66) in [Nino/SELF-HX](https://github.com/Nino-chan02/SELF-HX)
-5. 🗣 Commented on [#66](https://github.com/Nino-chan02/SELF-HX/issues/66) in [Nino/SELF-HX](https://github.com/Nino-chan02/SELF-HX)
+1. ❌ Closed PR [#229](https://github.com/ITSMAZGH/Backup-Bot/pull/229) in [Mans/Mans-Baileys](https://github.com/ITSMAZGH/Backup-Bot)
+2. ❌ Closed PR [#72](https://github.com/ITSMAZGH/Backup-Bot/pull/72) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
+3. ❌ Closed PR [#71](https://github.com/ITSMAZGH/Backup-Bot/pull/71) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
+4. ❗️ Closed issue [#66](https://github.com/ITSMAZGH/Backup-Bot/issues/66) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
+5. 🗣 Commented on [#66](https://github.com/ITSMAZGH/Backup-Bot/issues/66) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
 <!--END_SECTION:activity-->
 
 ---
