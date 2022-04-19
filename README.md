@@ -21,8 +21,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#229](https://github.com/ZackMans/Bot_Minecraft/pull/229) in [Mans/Mans-Minecraft](https://github.com/ZackMans/Backup-Bot)
-2. ❌ Closed PR [#72](https://github.com/ZackMans/ZackBotMans/pull/72) in [Mans/ZackBotMans](https://github.com/ZackMans/ZackBotMans)
+1. ❌ Closed PR [#229](https://github.com/ZackMans/Bot_Minecraft/pull/229) in [ZackMans/Bot_Minecraft](https://github.com/ZackMans/Bot_Minecraft)
+2. ❌ Closed PR [#72](https://github.com/ZackMans/ZackBotMans/pull/72) in [ZackMans/ZackBotMans](https://github.com/ZackMans/ZackBotMans)
 3. ❌ Closed PR [#71](https://github.com/ITSMAZGH/Backup-Bot/pull/71) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
 4. ❗️ Closed issue [#66](https://github.com/ITSMAZGH/Backup-Bot/issues/66) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
 5. 🗣 Commented on [#66](https://github.com/ITSMAZGH/Backup-Bot/issues/66) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
