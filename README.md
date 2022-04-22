@@ -6,26 +6,21 @@
 ---
 
 :page_with_curl: I'm currently learning:
-- PHP
-- Phyton
 - Javascript
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ITSMAZGH&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSMAZGH&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITSMAZGH&repo=Backup-Bot&theme=dark)
-![](https://github-profile-trophy.vercel.app/?username=ITSMAZGH&row=2&column=3)
+![github stats](https://github-readme-stats.vercel.app/api?username=ZackMans&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackMans&layout=compact&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZackMans&repo=Backup-Bot&theme=dark)
+![](https://github-profile-trophy.vercel.app/?username=ZackMans&row=2&column=3)
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#229](https://github.com/ZackMans/Bot_Minecraft/pull/229) in [ZackMans/Bot_Minecraft](https://github.com/ZackMans/Bot_Minecraft)
-2. ❌ Closed PR [#72](https://github.com/ZackMans/ZackBotMans/pull/72) in [ZackMans/ZackBotMans](https://github.com/ZackMans/ZackBotMans)
-3. ❌ Closed PR [#71](https://github.com/ITSMAZGH/Backup-Bot/pull/71) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
-4. ❗️ Closed issue [#66](https://github.com/ITSMAZGH/Backup-Bot/issues/66) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
-5. 🗣 Commented on [#66](https://github.com/ITSMAZGH/Backup-Bot/issues/66) in [Mans/Backup-Bot](https://github.com/ITSMAZGH/Backup-Bot)
+1. Bot Minecraft [#229](https://github.com/ZackMans/Bot_Minecraft/pull/229) in [ZackMans/Bot_Minecraft](https://github.com/ZackMans/Bot_Minecraft)
+2. Bot Whatsapp [#72](https://github.com/ZackMans/ZackBotMans/pull/72) in [ZackMans/ZackBotMans](https://github.com/ZackMans/ZackBotMans)
 <!--END_SECTION:activity-->
 
 ---
